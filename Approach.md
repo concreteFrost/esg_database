@@ -1,10 +1,10 @@
 ## General setup
 
-1.Create new git repository
-2.Organise folders for additional php/js files
-3.Create files for main front end functionality (script.js)
-4.Create files for backend (store them in php folder)
-5.Include bootstrap and jquery cdn`s in the <head> element
+1. Create new git repository
+2. Organise folders for additional php/js files
+3. Create files for main front end functionality (script.js)
+4. Create files for backend (store them in php folder)
+5. Include bootstrap and jquery cdn`s in the <head> element
 6. Setup new database using MySQL
 
 ## Front End
