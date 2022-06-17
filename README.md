@@ -20,7 +20,7 @@ password validation. You will have an access to the database on the successful s
 - [ ] Clone the repository using this command :
 
 ```
-https://github.com/concreteFrost/esg_database.git
+git clone https://github.com/concreteFrost/esg_database.git
 ```
 
 - [ ] Create new database in MySql using these fields:
