@@ -33,5 +33,5 @@ git clone https://github.com/concreteFrost/esg_database.git
 
 ### How to test this application
 
-Type  localhost/[repository_name] in the address line of your browser
+Type  ***localhost/[repository_name]*** in the address line of your browser
 
